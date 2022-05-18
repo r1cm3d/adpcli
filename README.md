@@ -23,6 +23,12 @@ make build
 It will call `go build` in order to download and build all dependencies.
 
 ## Installing
+#### Standalone install
+```
+curl -sf https://goblin.reaper.im/github.com/r1cm3d/adpcli | sh
+```
+
+#### Installing by source 
 ```
 export ADPCLI_BIN="$DEV/bin"; make
 ```
