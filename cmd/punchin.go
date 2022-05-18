@@ -31,7 +31,7 @@ var punchinCmd = &cobra.Command{
 		if err := cli.PunchIn(); err != nil {
 			log.Fatalf("Cannot Punchin into Username (%s) account.", username)
 		}
-		log.Print(fmt.Sprintf("Punchin succesfully done into Username (%s) account.", username))
+		log.Print(fmt.Sprintf("Punchin successfully done into Username (%s) account.", username))
 
 		os.Exit(0)
 	},
