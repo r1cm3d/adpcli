@@ -1,5 +1,5 @@
 # adpcli
-Nonofficial cli application to interacts with ADP Expert
+Nonofficial cli application that interacts with ADP Expert.
 
 [![license](https://img.shields.io/badge/license-GPL--3.0%20license-brightgreen?style=flat-square)](https://github.com/r1cm3d/adpcli/blob/master/LICENSE)
 
