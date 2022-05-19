@@ -3,8 +3,6 @@ Nonofficial cli application that interacts with ADP Expert.
 
 [![license](https://img.shields.io/badge/license-GPL--3.0%20license-brightgreen?style=flat-square)](https://github.com/r1cm3d/adpcli/blob/master/LICENSE)
 
-**TL;DR:**
-
 ## Prerequisites
 [![go](https://img.shields.io/badge/go-1.8-blue?style=flat-square)](https://github.com/golang/go)
 
