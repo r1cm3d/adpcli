@@ -83,3 +83,5 @@ Flags:
 
 Use "adpcli [command] --help" for more information about a command.
 ```
+## Acknowledgments
+Thanks @mniak for create [adpexpert](https://github.com/mniak/adpexpert) library.
